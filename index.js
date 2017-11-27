@@ -9,4 +9,3 @@ if (name === "Susan") {console.log("The name is correct");
 module.exports = { name, height
 }
 
-console.log("Toma ya!")
